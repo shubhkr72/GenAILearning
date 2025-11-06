@@ -1,0 +1,7 @@
+language models
+LLM models  --> general purpose LLM
+chat models  ---> conversational models 
+
+
+use temperature parameter
+max_completions_token
